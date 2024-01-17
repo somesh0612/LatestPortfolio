@@ -1,0 +1,40 @@
+# Personal Portfolio Website
+
+This is the source code for my personal portfolio website. The website showcases my skills, projects, and contact information.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+You can view the live demo of the website at [Your Live URL].
+
+## Features
+
+- Responsive design for various screen sizes.
+- Sections for About, Resume, Portfolio, and Contact.
+- Portfolio projects with descriptions and links.
+- Testimonials with a modal for detailed feedback.
+- Contact form for users to reach out.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Ionicons Library
+- [Any additional libraries or frameworks used]
+
+## Setup and Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/somesh0612/your-portfolio.git
