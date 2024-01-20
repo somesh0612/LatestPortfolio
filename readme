@@ -1,7 +1,5 @@
 # Personal Portfolio Website
 
-This is the source code for my personal portfolio website. The website showcases my skills, projects, and contact information.
-
 ## Table of Contents
 
 - [Demo](#demo)
@@ -10,7 +8,7 @@ This is the source code for my personal portfolio website. The website showcases
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
@@ -30,11 +28,9 @@ You can view the live demo of the website at [Your Live URL].
 - CSS3
 - JavaScript
 - Ionicons Library
-- [Any additional libraries or frameworks used]
 
-## Setup and Installation
 
-1. Clone the repository:
+
 
    ```bash
    git clone https://github.com/somesh0612/your-portfolio.git
